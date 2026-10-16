@@ -2,7 +2,7 @@
 project_name = "gcs-agent"
 
 # Your Google Cloud project id
-project_id = "lab-mkhan-vv5e3f7cc6"
+project_id = "your-project-id"
 
 # The Google Cloud region you will use to deploy the infrastructure
 region = "us-east1"
